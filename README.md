@@ -1,1 +1,3 @@
-tetriz
+# Tetriz
+
+A Tetris clone.
